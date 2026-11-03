@@ -45,6 +45,7 @@ Yalnızca derlemek için `mingw32-make derle`, yalnızca çalıştırmak için `
 ├── haritalar/      Ek test haritaları
 ├── prototip/       mazeGen.cpp (bit düzeyi labirent modeli prototipi)
 ├── Harita.txt      Varsayılan harita (20 x 50)
+├── README.md
 └── makefile
 ```
 

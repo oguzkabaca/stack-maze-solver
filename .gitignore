@@ -14,3 +14,7 @@ RastgeleHarita.txt
 .idea/
 cmake-build-*/
 .claude/
+
+# Proje raporu kisisel bilgi icerir; yalnizca yerelde tutulur, repoya eklenmez
+ProjeRaporu.docx
+ProjeRaporu.pdf
