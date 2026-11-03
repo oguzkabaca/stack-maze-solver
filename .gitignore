@@ -1,0 +1,16 @@
+# Derleme ciktilari (mingw32-make ile yeniden uretilir)
+bin/*
+lib/*
+!bin/.gitkeep
+!lib/.gitkeep
+*.exe
+*.o
+
+# --uret ile olusturulan harita
+RastgeleHarita.txt
+
+# Editor / IDE dosyalari
+.vscode/
+.idea/
+cmake-build-*/
+.claude/
